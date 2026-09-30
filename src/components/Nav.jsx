@@ -20,9 +20,6 @@ export default function Nav({ page, goTo }) {
             </li>
           ))}
         </ul>
-        <button className="btn" style={{ padding: '11px 20px', fontSize: '13.5px' }} onClick={() => goTo('recommend')}>
-          추천받기
-        </button>
       </div>
     </nav>
   )

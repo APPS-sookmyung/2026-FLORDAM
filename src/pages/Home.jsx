@@ -16,7 +16,7 @@ export default function Home({ goTo }) {
               <button className="btn btn-outline" onClick={() => goTo('search')}>꽃말 검색하기</button>
             </div>
           </div>
-          <div className="hero-visual paper torn-bottom"></div>
+          <div className="hero-visual"></div>
         </div>
       </header>
 
