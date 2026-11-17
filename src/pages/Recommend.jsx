@@ -11,10 +11,10 @@ export default function Recommend({ goTo }) {
 
   const { matches, usedFallback } = useMemo(() => {
     if (!situation || !mood) return { matches: [], usedFallback: false }
-    let list = flowers.filter((f) => f.situations.includes(situation) && f.moods.includes(mood))
+    let list = flowers.filter((f) => (f.situations || []).includes(situation) && (f.moods || []).includes(mood))
     let fallback = false
     if (list.length === 0) {
-      list = flowers.filter((f) => f.situations.includes(situation))
+      list = flowers.filter((f) => (f.situations || []).includes(situation))
       fallback = true
     }
     return { matches: list.slice(0, 4), usedFallback: fallback }
@@ -71,7 +71,7 @@ export default function Recommend({ goTo }) {
             )}
             <div className="result-cards">
               {matches.map((f) => (
-                <FlowerCard flower={f} key={f.name} variant="dark" />
+                <FlowerCard flower={f} key={f.id || f.name} variant="dark" />
               ))}
             </div>
           </div>
