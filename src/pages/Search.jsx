@@ -36,7 +36,7 @@ export default function Search({ goTo }) {
         ) : (
           <div className="search-results">
             {results.map((f) => (
-              <FlowerCard flower={f} key={f.name} variant="light" />
+              <FlowerCard flower={f} key={f.id || f.name} variant="light" />
             ))}
           </div>
         )}
