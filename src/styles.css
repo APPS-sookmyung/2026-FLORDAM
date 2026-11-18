@@ -120,3 +120,29 @@ footer .fnote{font-size:13px;color:var(--stone);}
   .hero .grid{grid-template-columns:1fr;}
   .hero-visual{order:-1;max-height:260px;}
 }
+
+/* 추천 선택 부분 */
+.mode-list{display:flex;flex-direction:column;gap:20px;}
+.mode-card{
+  display:flex;align-items:center;gap:28px;width:100%;text-align:left;
+  background:rgba(255,255,255,0.06);
+  border:1px solid rgba(255,255,255,0.18);
+  border-radius:3px;padding:36px 32px;color:var(--white);cursor:pointer;
+  transition:background .2s, border-color .2s, transform .2s;
+}
+.mode-card:hover{background:rgba(255,255,255,0.12);border-color:var(--sage-pale);transform:translateY(-2px);}
+.mode-num{
+  width:56px;height:56px;border-radius:50%;flex-shrink:0;
+  background:var(--sage);color:var(--ink);
+  display:flex;align-items:center;justify-content:center;
+  font-weight:900;font-size:16px;
+}
+.mode-body{flex:1;}
+.mode-body h3{font-size:22px;font-weight:900;margin-bottom:8px;}
+.mode-body p{font-size:14.5px;color:#cfd9c9;}
+.mode-arrow{font-size:24px;color:var(--sage-pale);}
+@media(max-width:640px){
+  .mode-card{padding:24px 20px;gap:16px;}
+  .mode-num{width:44px;height:44px;font-size:14px;}
+  .mode-body h3{font-size:18px;}
+}
