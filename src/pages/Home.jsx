@@ -30,13 +30,13 @@ export default function Home({ goTo }) {
             </p>
           </div>
           <div className="features-row">
-            <button className="feature-card" onClick={() => goTo('recommend')}>
+            <button className="feature-card" onClick={() => goTo('recommend', 'situation')}>
               <div className="feature-num">01</div>
               <h3>상황별 추천</h3>
               <p>축하, 위로, 응원, 사랑 고백 등 상황에 맞는 꽃을 골라드립니다.</p>
               <div className="feature-arrow">추천받기 →</div>
             </button>
-            <button className="feature-card" onClick={() => goTo('recommend')}>
+            <button className="feature-card" onClick={() => goTo('recommend', 'personal')}>
               <div className="feature-num">02</div>
               <h3>개인 맞춤형 추천</h3>
               <p>원하는 분위기까지 함께 골라, 취향에 더 가까운 꽃을 제안합니다.</p>

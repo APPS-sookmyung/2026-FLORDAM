@@ -23,7 +23,6 @@ const HEADERS = {
 const hasTag = (list, value) => (list || []).includes(value)
 
 export default function Recommend({ goTo }) {
-  const [mode, setMode] = useState('select')
   const header = HEADERS[mode]
 
   return (

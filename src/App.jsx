@@ -7,9 +7,11 @@ import Search from './pages/Search.jsx'
 
 export default function App() {
   const [page, setPage] = useState('home')
+  const [recommendMode, setRecommendMode] = useState('select')
 
-  const goTo = (p) => {
+  const goTo = (p, mode = 'select') => {
     setPage(p)
+    if (p === 'recommend') setRecommendMode(mode)
     window.scrollTo(0, 0)
   }
 
@@ -17,7 +19,9 @@ export default function App() {
     <>
       <Nav page={page} goTo={goTo} />
       {page === 'home' && <Home goTo={goTo} />}
-      {page === 'recommend' && <Recommend goTo={goTo} />}
+      {page === 'recommend' && (
+        <Recommend goTo={goTo} mode={recommendMode} setMode={setRecommendMode} />
+      )}
       {page === 'search' && <Search goTo={goTo} />}
       <Footer />
     </>
