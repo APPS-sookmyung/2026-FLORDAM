@@ -1,185 +1,5 @@
 [
   {
-    "name": "장미 (빨강)",
-    "meaning": "열정적인 사랑",
-    "desc": "강렬한 마음을 전하고 싶을 때 가장 먼저 떠오르는 꽃이에요.",
-    "situations": [
-      "사랑고백",
-      "기념일"
-    ],
-    "moods": [
-      "강렬하고 화려한"
-    ]
-  },
-  {
-    "name": "카네이션",
-    "meaning": "존경과 감사",
-    "desc": "부모님이나 은사님께 감사한 마음을 전할 때 어울려요.",
-    "situations": [
-      "감사",
-      "기념일"
-    ],
-    "moods": [
-      "소박하고 다정한"
-    ]
-  },
-  {
-    "name": "프리지아",
-    "meaning": "새로운 시작, 순수한 마음",
-    "desc": "산뜻한 향이 응원과 새 출발의 메시지를 더해줘요.",
-    "situations": [
-      "응원",
-      "축하"
-    ],
-    "moods": [
-      "화사하고 발랄한"
-    ]
-  },
-  {
-    "name": "해바라기",
-    "meaning": "그리움 속의 존경",
-    "desc": "한결같은 마음과 존경을 담아 응원할 때 좋아요.",
-    "situations": [
-      "응원",
-      "감사"
-    ],
-    "moods": [
-      "화사하고 발랄한"
-    ]
-  },
-  {
-    "name": "백합",
-    "meaning": "순수와 위엄",
-    "desc": "우아한 인상으로 축하 자리를 품격 있게 만들어줘요.",
-    "situations": [
-      "축하",
-      "기념일"
-    ],
-    "moods": [
-      "은은하고 차분한"
-    ]
-  },
-  {
-    "name": "튤립 (분홍)",
-    "meaning": "애정과 배려",
-    "desc": "부담스럽지 않게 설레는 마음을 전하고 싶을 때 어울려요.",
-    "situations": [
-      "사랑고백",
-      "응원"
-    ],
-    "moods": [
-      "화사하고 발랄한"
-    ]
-  },
-  {
-    "name": "안개꽃",
-    "meaning": "맑은 마음, 영원한 사랑",
-    "desc": "다른 꽃과 함께 은은하게 곁을 채워주는 꽃이에요.",
-    "situations": [
-      "우정",
-      "기념일"
-    ],
-    "moods": [
-      "소박하고 다정한"
-    ]
-  },
-  {
-    "name": "리시안셔스",
-    "meaning": "변치 않는 사랑",
-    "desc": "오래도록 진심이 이어지길 바라는 마음을 담아요.",
-    "situations": [
-      "사랑고백",
-      "기념일"
-    ],
-    "moods": [
-      "은은하고 차분한"
-    ]
-  },
-  {
-    "name": "수국",
-    "meaning": "진심 어린 마음",
-    "desc": "풍성한 꽃송이로 깊고 진솔한 사과의 마음을 전해요.",
-    "situations": [
-      "사과",
-      "위로"
-    ],
-    "moods": [
-      "은은하고 차분한"
-    ]
-  },
-  {
-    "name": "라넌큘러스",
-    "meaning": "눈부신 매력",
-    "desc": "켜켜이 쌓인 꽃잎처럼 특별한 축하를 전하고 싶을 때.",
-    "situations": [
-      "축하",
-      "사랑고백"
-    ],
-    "moods": [
-      "강렬하고 화려한"
-    ]
-  },
-  {
-    "name": "스토크",
-    "meaning": "영원한 아름다움",
-    "desc": "잔잔한 향으로 지친 마음을 다독여줘요.",
-    "situations": [
-      "위로",
-      "기념일"
-    ],
-    "moods": [
-      "소박하고 다정한"
-    ]
-  },
-  {
-    "name": "델피늄",
-    "meaning": "청명함, 그대를 행복하게",
-    "desc": "맑은 청량감으로 응원과 위로를 함께 전해요.",
-    "situations": [
-      "응원",
-      "위로"
-    ],
-    "moods": [
-      "은은하고 차분한"
-    ]
-  },
-  {
-    "name": "마거리트",
-    "meaning": "마음속에 감춘 사랑",
-    "desc": "친구 사이의 다정한 마음을 편안하게 전할 수 있어요.",
-    "situations": [
-      "우정",
-      "감사"
-    ],
-    "moods": [
-      "소박하고 다정한"
-    ]
-  },
-  {
-    "name": "작약",
-    "meaning": "성실한 사랑, 수줍음",
-    "desc": "풍성하고 화려해서 뜻깊은 기념일에 잘 어울려요.",
-    "situations": [
-      "사과",
-      "기념일"
-    ],
-    "moods": [
-      "강렬하고 화려한"
-    ]
-  },
-  {
-    "name": "스위트피",
-    "meaning": "즐거운 추억",
-    "desc": "산뜻한 색감으로 고마움과 좋은 기억을 함께 전해요.",
-    "situations": [
-      "위로",
-      "감사"
-    ],
-    "moods": [
-      "화사하고 발랄한"
-    ]
-  },
-  {
     "id": "flower-001",
     "dataNo": 1,
     "month": 1,
@@ -197,7 +17,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0101-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0101-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-002",
@@ -217,7 +43,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0102-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0102-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-003",
@@ -237,7 +69,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0103-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0103-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-004",
@@ -257,7 +95,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0104-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0104-1_1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-005",
@@ -277,7 +121,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0105-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0105-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-006",
@@ -297,7 +143,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0106-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0106-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-007",
@@ -317,7 +169,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0107-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0107-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-008",
@@ -337,7 +191,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0108-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0108-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-009",
@@ -357,7 +218,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0109-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0109-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-010",
@@ -377,7 +240,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0110-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0110-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-011",
@@ -397,7 +266,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0111-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0111-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-012",
@@ -417,7 +292,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0112-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0112-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-013",
@@ -437,7 +318,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0113-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0113-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-014",
@@ -457,7 +344,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0114-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0114-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-015",
@@ -477,7 +370,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0115-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0115-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-016",
@@ -497,7 +397,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0116-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0116-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-017",
@@ -517,7 +424,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0117-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0117-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-018",
@@ -537,7 +446,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0118-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0118-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-019",
@@ -557,7 +468,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0119-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0119-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-020",
@@ -577,7 +494,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0120-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0120-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-021",
@@ -597,7 +521,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0121-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0121-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-022",
@@ -617,7 +547,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0122-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0122-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-023",
@@ -637,7 +573,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0123-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0123-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-024",
@@ -657,7 +599,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0124-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0124-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-025",
@@ -677,7 +621,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0125-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0125-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-026",
@@ -697,7 +647,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0126-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0126-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-027",
@@ -717,7 +673,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0127-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0127-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-028",
@@ -737,7 +699,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0128-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0128-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-029",
@@ -757,7 +725,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0129-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0129-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-030",
@@ -777,7 +747,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0130-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0130-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-031",
@@ -797,7 +773,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0131-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0131-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-032",
@@ -817,7 +799,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0201-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0201-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "응원",
+      "기념일"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-033",
@@ -837,7 +827,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0202-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0202-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-034",
@@ -857,7 +853,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0203-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0203-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-035",
@@ -877,7 +879,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0204-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0204-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-036",
@@ -897,7 +905,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0205-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0205-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-037",
@@ -917,7 +927,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0206-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0206-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-038",
@@ -937,7 +955,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0207-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0207-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-039",
@@ -957,7 +977,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0208-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0208-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-040",
@@ -977,7 +1003,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0209-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0209-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로",
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-041",
@@ -997,7 +1031,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0210-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0210-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-042",
@@ -1017,7 +1057,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0211-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0211-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "기념일"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-043",
@@ -1037,7 +1085,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0212-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0212-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-044",
@@ -1057,7 +1111,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0213-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0213-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-045",
@@ -1077,7 +1137,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0214-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0214-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-046",
@@ -1097,7 +1164,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0215-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0215-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-047",
@@ -1117,7 +1186,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0216-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0216-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-048",
@@ -1137,7 +1212,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0217-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0217-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-049",
@@ -1157,7 +1238,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0218-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0218-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-050",
@@ -1177,7 +1260,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0219-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0219-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-051",
@@ -1197,7 +1282,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0220-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0220-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-052",
@@ -1217,7 +1308,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0221-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0221-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-053",
@@ -1237,7 +1334,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0222-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0222-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-054",
@@ -1257,7 +1360,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0223-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0223-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-055",
@@ -1277,7 +1387,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0224-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0224-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-056",
@@ -1297,7 +1413,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0225-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0225-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-057",
@@ -1317,7 +1435,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0226-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0226-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-058",
@@ -1337,7 +1461,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0227-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0227-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-059",
@@ -1357,7 +1487,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0228-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0228-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "감사"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-060",
@@ -1377,7 +1514,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0229-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0229-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-061",
@@ -1397,7 +1540,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0301-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0301-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-062",
@@ -1417,7 +1567,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0302-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0302-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-063",
@@ -1437,7 +1589,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0303-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0303-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로",
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-064",
@@ -1457,7 +1616,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0304-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0304-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-065",
@@ -1477,7 +1638,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0305-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0305-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일",
+      "우정"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-066",
@@ -1497,7 +1665,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0306-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0306-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일",
+      "응원"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-067",
@@ -1517,7 +1692,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0307-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0307-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "기념일"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-068",
@@ -1537,7 +1719,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0308-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0308-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-069",
@@ -1557,7 +1741,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0309-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0309-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-070",
@@ -1577,7 +1763,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0310-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0310-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "응원",
+      "우정"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-071",
@@ -1597,7 +1791,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0311-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0311-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-072",
@@ -1617,7 +1813,16 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0312-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0312-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정",
+      "사랑고백",
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-073",
@@ -1637,7 +1842,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0313-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0313-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-074",
@@ -1657,7 +1868,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0314-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0314-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-075",
@@ -1677,7 +1894,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0315-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0315-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-076",
@@ -1697,7 +1916,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0316-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0316-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "감사"
+    ],
+    "moods": [
+      "강렬하고 화려한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-077",
@@ -1717,7 +1944,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0317-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0317-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-078",
@@ -1737,7 +1970,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0318-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0318-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-079",
@@ -1757,7 +1996,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0319-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0319-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정",
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-080",
@@ -1777,7 +2024,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0320-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0320-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사",
+      "축하"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-081",
@@ -1797,7 +2052,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0321-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0321-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-082",
@@ -1817,7 +2079,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0322-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0322-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-083",
@@ -1837,7 +2101,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0323-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0323-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-084",
@@ -1857,7 +2127,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0324-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0324-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-085",
@@ -1877,7 +2153,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0325-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0325-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-086",
@@ -1897,7 +2179,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0326-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0326-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-087",
@@ -1917,7 +2205,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0327-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0327-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-088",
@@ -1937,7 +2227,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0328-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0328-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-089",
@@ -1957,7 +2253,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0329-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0329-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-090",
@@ -1977,7 +2275,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0330-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0330-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-091",
@@ -1997,7 +2301,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0331-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0331-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-092",
@@ -2017,7 +2323,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0401-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0401-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-093",
@@ -2037,7 +2349,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0402-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0402-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "우정"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-094",
@@ -2057,7 +2377,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0403-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0403-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-095",
@@ -2077,7 +2404,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0404-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0404-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-096",
@@ -2097,7 +2430,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0405-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0405-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-097",
@@ -2117,7 +2456,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0406-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0406-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-098",
@@ -2137,7 +2482,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0407-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0407-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-099",
@@ -2157,7 +2508,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0408-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0408-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-100",
@@ -2177,7 +2530,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0409-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0409-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-101",
@@ -2197,7 +2556,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0410-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0410-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "우정"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-102",
@@ -2217,7 +2583,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0411-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0411-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-103",
@@ -2237,7 +2605,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0412-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0412-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-104",
@@ -2257,7 +2627,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0413-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0413-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-105",
@@ -2277,7 +2655,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0414-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0414-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-106",
@@ -2297,7 +2681,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0415-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0415-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-107",
@@ -2317,7 +2707,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0416-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0416-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-108",
@@ -2337,7 +2729,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0417-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0417-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-109",
@@ -2357,7 +2755,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0418-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0418-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-110",
@@ -2377,7 +2781,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0419-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0419-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-111",
@@ -2397,7 +2807,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0420-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0420-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-112",
@@ -2417,7 +2833,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0421-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0421-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-113",
@@ -2437,7 +2859,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0422-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0422-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-114",
@@ -2457,7 +2885,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0423-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0423-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-115",
@@ -2477,7 +2907,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0424-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0424-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-116",
@@ -2497,7 +2929,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0425-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0425-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-117",
@@ -2517,7 +2951,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0426-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0426-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-118",
@@ -2537,7 +2973,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0427-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0427-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-119",
@@ -2557,7 +2999,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0428-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0428-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-120",
@@ -2577,7 +3021,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0429-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0429-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "응원"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-121",
@@ -2597,7 +3048,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0430-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0430-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-122",
@@ -2617,7 +3075,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0501-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0501-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-123",
@@ -2637,7 +3097,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0502-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0502-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-124",
@@ -2657,7 +3123,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0503-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0503-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-125",
@@ -2677,7 +3145,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0504-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0504-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-126",
@@ -2697,7 +3171,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0505-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0505-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-127",
@@ -2717,7 +3198,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0506-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0506-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-128",
@@ -2737,7 +3224,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0507-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0507-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-129",
@@ -2757,7 +3246,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0508-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0508-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-130",
@@ -2777,7 +3272,16 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0509-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0509-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "사과",
+      "기념일"
+    ],
+    "moods": [
+      "강렬하고 화려한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-131",
@@ -2797,7 +3301,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0510-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0510-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-132",
@@ -2817,7 +3323,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0511-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0511-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-133",
@@ -2837,7 +3350,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0512-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0512-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-134",
@@ -2857,7 +3376,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0513-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0513-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-135",
@@ -2877,7 +3402,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0514-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0514-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "사랑고백"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-136",
@@ -2897,7 +3429,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0515-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0515-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-137",
@@ -2917,7 +3456,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0516-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0516-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-138",
@@ -2937,7 +3482,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0517-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0517-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-139",
@@ -2957,7 +3508,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0518-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0518-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-140",
@@ -2977,7 +3535,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0519-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0519-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "축하"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-141",
@@ -2997,7 +3563,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0520-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0520-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-142",
@@ -3017,7 +3589,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0521-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0521-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-143",
@@ -3037,7 +3615,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0522-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0522-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-144",
@@ -3057,7 +3637,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0523-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0523-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-145",
@@ -3077,7 +3663,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0524-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0524-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-146",
@@ -3097,7 +3689,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0525-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0525-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-147",
@@ -3117,7 +3715,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0526-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0526-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-148",
@@ -3137,7 +3742,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0527-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0527-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-149",
@@ -3157,7 +3768,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0528-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0528-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-150",
@@ -3177,7 +3794,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0529-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0529-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-151",
@@ -3197,7 +3820,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0530-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0530-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-152",
@@ -3217,7 +3846,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0531-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0531-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-153",
@@ -3237,7 +3872,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0601-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0601-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-154",
@@ -3257,7 +3894,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0602-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0602-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-155",
@@ -3277,7 +3920,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0603-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0603-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-156",
@@ -3297,7 +3946,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0604-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0604-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "감사"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-157",
@@ -3317,7 +3974,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0605-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0605-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-158",
@@ -3337,7 +4000,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0606-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0606-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-159",
@@ -3357,7 +4026,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0607-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0607-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "사과"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-160",
@@ -3377,7 +4053,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0608-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0608-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-161",
@@ -3397,7 +4075,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0609-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0609-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-162",
@@ -3417,7 +4097,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0610-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0610-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-163",
@@ -3437,7 +4124,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0611-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0611-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-164",
@@ -3457,7 +4150,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0612-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0612-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-165",
@@ -3477,7 +4172,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0613-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0613-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-166",
@@ -3497,7 +4199,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0614-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0614-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-167",
@@ -3517,7 +4221,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0615-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0615-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-168",
@@ -3537,7 +4248,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0616-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0616-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-169",
@@ -3557,7 +4275,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0617-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0617-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-170",
@@ -3577,7 +4297,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0618-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0618-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-171",
@@ -3597,7 +4319,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0619-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0619-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-172",
@@ -3617,7 +4341,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0620-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0620-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-173",
@@ -3637,7 +4363,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0621-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0621-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-174",
@@ -3657,7 +4389,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0622-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0622-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-175",
@@ -3677,7 +4415,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0623-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0623-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-176",
@@ -3697,7 +4437,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0624-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0624-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-177",
@@ -3717,7 +4459,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0625-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0625-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-178",
@@ -3737,7 +4485,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0626-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0626-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-179",
@@ -3757,7 +4507,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0627-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0627-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-180",
@@ -3777,7 +4529,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0628-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0628-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-181",
@@ -3797,7 +4555,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0629-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0629-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-182",
@@ -3817,7 +4577,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0630-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0630-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원",
+      "감사"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-183",
@@ -3837,7 +4605,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0701-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0701-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일",
+      "사랑고백"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-184",
@@ -3857,7 +4632,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0702-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0702-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-185",
@@ -3877,7 +4658,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0703-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0703-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-186",
@@ -3897,7 +4684,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0704-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0704-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-187",
@@ -3917,7 +4710,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0705-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0705-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-188",
@@ -3937,7 +4732,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0706-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0706-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-189",
@@ -3957,7 +4758,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0707-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0707-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-190",
@@ -3977,7 +4780,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0708-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0708-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-191",
@@ -3997,7 +4806,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0709-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0709-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일",
+      "우정"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-192",
@@ -4017,7 +4833,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0710-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0710-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-193",
@@ -4037,7 +4859,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0711-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0711-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-194",
@@ -4057,7 +4881,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0712-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0712-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-195",
@@ -4077,7 +4907,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0713-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0713-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-196",
@@ -4097,7 +4929,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0714-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0714-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-197",
@@ -4117,7 +4951,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0715-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0715-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-198",
@@ -4137,7 +4977,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0716-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0716-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-199",
@@ -4157,7 +5004,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0717-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0717-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-200",
@@ -4177,7 +5030,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0718-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0718-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-201",
@@ -4197,7 +5057,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0719-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0719-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-202",
@@ -4217,7 +5083,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0720-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0720-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "감사"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-203",
@@ -4237,7 +5110,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0721-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0721-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-204",
@@ -4257,7 +5136,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0722-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0722-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-205",
@@ -4277,7 +5162,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0723-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0723-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "우정"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-206",
@@ -4297,7 +5190,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0724-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0724-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-207",
@@ -4317,7 +5212,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0725-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0725-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-208",
@@ -4337,7 +5234,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0726-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0726-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-209",
@@ -4357,7 +5260,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0727-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0727-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-210",
@@ -4377,7 +5282,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0728-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0728-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-211",
@@ -4397,7 +5308,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0729-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0729-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-212",
@@ -4417,7 +5334,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0730-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0730-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-213",
@@ -4437,7 +5360,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0731-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0731-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원",
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-214",
@@ -4457,7 +5387,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0801-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0801-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-215",
@@ -4477,7 +5413,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0802-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0802-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "축하",
+      "응원"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-216",
@@ -4497,7 +5441,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0803-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0803-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-217",
@@ -4517,7 +5467,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0804-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0804-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-218",
@@ -4537,7 +5493,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0805-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0805-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-219",
@@ -4557,7 +5519,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0806-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0806-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-220",
@@ -4577,7 +5545,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0807-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0807-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-221",
@@ -4597,7 +5571,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0808-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0808-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "감사"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-222",
@@ -4617,7 +5599,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0809-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0809-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "기념일"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-223",
@@ -4637,7 +5627,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0810-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0810-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "기념일"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-224",
@@ -4657,7 +5654,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0811-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0811-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-225",
@@ -4677,7 +5680,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0812-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0812-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-226",
@@ -4697,7 +5706,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0813-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0813-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-227",
@@ -4717,7 +5728,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0814-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0814-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-228",
@@ -4737,7 +5754,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0815-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0815-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-229",
@@ -4757,7 +5780,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0816-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0816-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-230",
@@ -4777,7 +5802,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0817-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0817-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-231",
@@ -4797,7 +5830,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0818-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0818-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-232",
@@ -4817,7 +5856,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0819-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0819-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-233",
@@ -4837,7 +5878,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0820-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0820-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "감사",
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-234",
@@ -4857,7 +5906,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0821-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0821-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-235",
@@ -4877,7 +5932,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0822-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0822-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-236",
@@ -4897,7 +5958,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0823-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0823-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-237",
@@ -4917,7 +5984,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0824-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0824-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-238",
@@ -4937,7 +6010,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0825-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0825-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-239",
@@ -4957,7 +6037,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0826-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0826-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-240",
@@ -4977,7 +6063,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0827-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0827-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-241",
@@ -4997,7 +6085,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0828-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0828-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-242",
@@ -5017,7 +6111,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0829-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0829-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-243",
@@ -5037,7 +6137,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0830-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0830-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "감사"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-244",
@@ -5057,7 +6165,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0831-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0831-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-245",
@@ -5077,7 +6191,16 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0901-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0901-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일",
+      "응원",
+      "우정"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-246",
@@ -5097,7 +6220,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0902-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0902-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-247",
@@ -5117,7 +6242,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0903-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0903-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-248",
@@ -5137,7 +6264,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0904-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0904-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-249",
@@ -5157,7 +6290,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0905-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0905-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-250",
@@ -5177,7 +6316,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0906-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0906-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-251",
@@ -5197,7 +6338,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0907-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0907-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-252",
@@ -5217,7 +6360,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0908-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0908-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-253",
@@ -5237,7 +6382,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0909-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0909-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-254",
@@ -5257,7 +6408,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0910-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0910-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-255",
@@ -5277,7 +6430,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0911-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0911-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-256",
@@ -5297,7 +6456,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0912-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0912-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-257",
@@ -5317,7 +6482,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0913-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0913-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일",
+      "사랑고백",
+      "축하"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-258",
@@ -5337,7 +6510,16 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0914-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0914-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "위로",
+      "사과"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-259",
@@ -5357,7 +6539,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0915-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0915-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-260",
@@ -5377,7 +6565,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0916-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0916-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-261",
@@ -5397,7 +6591,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0917-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0917-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-262",
@@ -5417,7 +6617,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0918-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0918-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-263",
@@ -5437,7 +6645,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0919-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0919-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-264",
@@ -5457,7 +6671,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0920-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0920-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-265",
@@ -5477,7 +6697,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0921-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0921-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "감사"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-266",
@@ -5497,7 +6725,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0922-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0922-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-267",
@@ -5517,7 +6751,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0923-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0923-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-268",
@@ -5537,7 +6773,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0924-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0924-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-269",
@@ -5557,7 +6795,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0925-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0925-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "사과"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-270",
@@ -5577,7 +6822,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0926-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0926-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-271",
@@ -5597,7 +6848,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0927-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0927-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-272",
@@ -5617,7 +6870,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0928-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0928-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-273",
@@ -5637,7 +6896,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0929-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0929-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-274",
@@ -5657,7 +6922,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0930-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/0930-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-275",
@@ -5677,7 +6948,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1001-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1001-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-276",
@@ -5697,7 +6974,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1002-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1002-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-277",
@@ -5717,7 +6996,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1003-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1003-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-278",
@@ -5737,7 +7022,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1004-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1004-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-279",
@@ -5757,7 +7049,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1005-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1005-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-280",
@@ -5777,7 +7075,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1006-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1006-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-281",
@@ -5797,7 +7101,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1007-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1007-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-282",
@@ -5817,7 +7127,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1008-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1008-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-283",
@@ -5837,7 +7149,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1009-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1009-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-284",
@@ -5857,7 +7171,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1010-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1010-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-285",
@@ -5877,7 +7197,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1011-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1011-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-286",
@@ -5897,7 +7219,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1012-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1012-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로",
+      "우정"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-287",
@@ -5917,7 +7247,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1013-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1013-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-288",
@@ -5937,7 +7273,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1014-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1014-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-289",
@@ -5957,7 +7295,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1015-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1015-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-290",
@@ -5977,7 +7317,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1016-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1016-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-291",
@@ -5997,7 +7343,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1017-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1017-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-292",
@@ -6017,7 +7365,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1018-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1018-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-293",
@@ -6037,7 +7387,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1019-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1019-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-294",
@@ -6057,7 +7413,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1020-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1020-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-295",
@@ -6077,7 +7439,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1021-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1021-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-296",
@@ -6097,7 +7465,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1022-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1022-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-297",
@@ -6117,7 +7491,16 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1023-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1023-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일",
+      "축하",
+      "우정"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-298",
@@ -6137,7 +7520,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1024-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1024-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-299",
@@ -6157,7 +7542,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1025-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1025-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-300",
@@ -6177,7 +7568,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1026-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1026-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-301",
@@ -6197,7 +7590,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1027-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1027-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과",
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-302",
@@ -6217,7 +7617,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1028-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1028-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-303",
@@ -6237,7 +7639,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1029-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1029-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-304",
@@ -6257,7 +7661,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1030-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1030-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-305",
@@ -6277,7 +7687,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1031-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1031-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-306",
@@ -6297,7 +7709,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1101-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1101-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-307",
@@ -6317,7 +7735,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1102-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1102-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-308",
@@ -6337,7 +7761,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1103-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1103-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-309",
@@ -6357,7 +7783,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1104-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1104-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-310",
@@ -6377,7 +7809,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1105-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1105-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-311",
@@ -6397,7 +7835,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1106-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1106-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-312",
@@ -6417,7 +7861,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1107-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1107-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-313",
@@ -6437,7 +7888,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1108-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1108-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-314",
@@ -6457,7 +7914,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1109-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1109-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-315",
@@ -6477,7 +7936,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1110-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1110-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-316",
@@ -6497,7 +7962,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1111-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1111-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-317",
@@ -6517,7 +7988,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1112-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1112-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "축하"
+    ],
+    "moods": [
+      "강렬하고 화려한",
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-318",
@@ -6537,7 +8016,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1113-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1113-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-319",
@@ -6557,7 +8043,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1114-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1114-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-320",
@@ -6577,7 +8069,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1115-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1115-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-321",
@@ -6597,7 +8095,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1116-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1116-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-322",
@@ -6617,7 +8121,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1117-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1117-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-323",
@@ -6637,7 +8143,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1118-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1118-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-324",
@@ -6657,7 +8169,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1119-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1119-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-325",
@@ -6677,7 +8195,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1120-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1120-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-326",
@@ -6697,7 +8217,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1121-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1121-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-327",
@@ -6717,7 +8243,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1122-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1122-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-328",
@@ -6737,7 +8269,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1123-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1123-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-329",
@@ -6757,7 +8291,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1124-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1124-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-330",
@@ -6777,7 +8317,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1125-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1125-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-331",
@@ -6797,7 +8339,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1126-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1126-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-332",
@@ -6817,7 +8361,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1127-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1127-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "응원"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-333",
@@ -6837,7 +8388,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1128-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1128-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-334",
@@ -6857,7 +8414,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1129-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1129-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-335",
@@ -6877,7 +8436,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1130-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1130-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-336",
@@ -6897,7 +8462,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1201-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1201-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하",
+      "우정"
+    ],
+    "moods": [
+      "은은하고 차분한",
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-337",
@@ -6917,7 +8490,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1202-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1202-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-338",
@@ -6937,7 +8516,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1203-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1203-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-339",
@@ -6957,7 +8538,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1204-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1204-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-340",
@@ -6977,7 +8564,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1205-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1205-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-341",
@@ -6997,7 +8590,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1206-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1206-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-342",
@@ -7017,7 +8616,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1207-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1207-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-343",
@@ -7037,7 +8642,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1208-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1208-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-344",
@@ -7057,7 +8668,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1209-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1209-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-345",
@@ -7077,7 +8694,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1210-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1210-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-346",
@@ -7097,7 +8720,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1211-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1211-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로",
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-347",
@@ -7117,7 +8747,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1212-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1212-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "기념일"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-348",
@@ -7137,7 +8773,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1213-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1213-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-349",
@@ -7157,7 +8799,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1214-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1214-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-350",
@@ -7177,7 +8821,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1215-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1215-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-351",
@@ -7197,7 +8847,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1216-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1216-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-352",
@@ -7217,7 +8873,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1217-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1217-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-353",
@@ -7237,7 +8899,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1218-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1218-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-354",
@@ -7257,7 +8925,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1219-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1219-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "감사"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-355",
@@ -7277,7 +8951,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1220-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1220-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사과"
+    ],
+    "moods": [
+      "은은하고 차분한"
+    ]
   },
   {
     "id": "flower-356",
@@ -7297,7 +8977,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1221-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1221-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-357",
@@ -7317,7 +9003,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1222-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1222-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-358",
@@ -7337,7 +9029,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1223-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1223-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-359",
@@ -7357,7 +9055,15 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1224-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1224-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백",
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한",
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-360",
@@ -7377,7 +9083,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1225-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1225-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-361",
@@ -7397,7 +9105,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1226-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1226-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "축하"
+    ],
+    "moods": [
+      "화사하고 발랄한"
+    ]
   },
   {
     "id": "flower-362",
@@ -7417,7 +9131,9 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1227-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1227-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   },
   {
     "id": "flower-363",
@@ -7437,7 +9153,14 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1228-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1228-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "위로",
+      "기념일"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-364",
@@ -7457,7 +9180,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1229-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1229-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "우정"
+    ],
+    "moods": [
+      "소박하고 다정한"
+    ]
   },
   {
     "id": "flower-365",
@@ -7477,7 +9206,13 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1230-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1230-3.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [
+      "사랑고백"
+    ],
+    "moods": [
+      "강렬하고 화려한"
+    ]
   },
   {
     "id": "flower-366",
@@ -7497,6 +9232,8 @@
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1231-2.jpg",
       "https://www.nihhs.go.kr/Attfiles/FLOWF/1231-1.jpg"
     ],
-    "source": "농촌진흥청 국립원예특작과학원"
+    "source": "농촌진흥청 국립원예특작과학원",
+    "situations": [],
+    "moods": []
   }
 ]
