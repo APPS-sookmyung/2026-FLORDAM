@@ -22,7 +22,7 @@ const HEADERS = {
 
 const hasTag = (list, value) => (list || []).includes(value)
 
-export default function Recommend({ goTo }) {
+export default function Recommend({ goTo, mode, setMode }) {
   const header = HEADERS[mode]
 
   return (
